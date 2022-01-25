@@ -4,8 +4,8 @@ I'm a freshly graduated software engineer from Ironhack.
 As a Project Manager in Digital Marketing and E-Commerce for over 4 years, I realized that the tech behind products was what I was truly passionate about.
 
 ### Let's connect!
-[![linkedin](https://user-images.githubusercontent.com/35829634/151015630-c464b123-d2e7-4846-800e-d2b5d3b21c03.png)](https://www.linkedin.com/in/eva-degano/)
-<img src="https://user-images.githubusercontent.com/35829634/151015630-c464b123-d2e7-4846-800e-d2b5d3b21c03.png" alt="linkedin" width="60" >
+<a href="https://www.linkedin.com/in/eva-degano/"><img src="https://user-images.githubusercontent.com/35829634/151015630-c464b123-d2e7-4846-800e-d2b5d3b21c03.png" alt="linkedin" width="60" ></a>
+
 
 <!--
 **evadegano/evadegano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
