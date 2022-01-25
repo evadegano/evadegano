@@ -4,7 +4,7 @@ I'm a freshly graduated software engineer from Ironhack.
 As a Project Manager in Digital Marketing and E-Commerce for over 4 years, I realized that the tech behind the products I was working on was what I was truly passionate about. Plus, I have always had a knack for improving and automating processes.
 
 ### My portfolio
-
+Check out my repos to see my projects.
 
 ### Let's connect!
 <p align="left">
