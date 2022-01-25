@@ -7,11 +7,17 @@ As a Project Manager in Digital Marketing and E-Commerce for over 4 years, I rea
 
 
 ### Let's connect!
-<div style="display:flex;justify-content:flex-start;align-items:flex-start">
+<div>
   <a href="https://www.linkedin.com/in/eva-degano/"><img src="https://user-images.githubusercontent.com/35829634/151015630-c464b123-d2e7-4846-800e-d2b5d3b21c03.png" alt="linkedin" width="30" ></a>
 
   <a href="mailto: eva.degano@gmail.com"><img src="https://user-images.githubusercontent.com/35829634/151039267-09ac7ee7-d288-4697-8e5c-6019d0419248.png" alt="gmail" width="30" ></a>
 </div>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/35829634/151015630-c464b123-d2e7-4846-800e-d2b5d3b21c03.png" alt="linkedin" width="30" >
+
+  <img src="https://user-images.githubusercontent.com/35829634/151039267-09ac7ee7-d288-4697-8e5c-6019d0419248.png" alt="gmail" width="30" >
+</p>
 
 <!--
 **evadegano/evadegano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
