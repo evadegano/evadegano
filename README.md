@@ -1,5 +1,5 @@
 ### Hi, I'm Eva! 👋
-I'm a freshly graduated software engineer from Ironhack. 
+I'm a passionate and freshly graduated software engineer from Ironhack. 
 
 As a Project Manager in Digital Marketing and E-Commerce for over 4 years, I realized that the tech behind those projects what I was truly passionate about. Plus, I have always had a knack for building tools that improve and automate processes.
 
