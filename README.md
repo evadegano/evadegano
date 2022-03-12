@@ -12,7 +12,7 @@ That's why I decided to change careers and become a Full Stack Web Developer.
   <img src="https://user-images.githubusercontent.com/35829634/158013383-ad1851a4-d907-4723-8902-2b4ad8722b7e.png" alt="typescript" height="30">
   <img src="https://user-images.githubusercontent.com/35829634/158013455-1cc033aa-f3d9-4fd4-ad2a-cd92c598382f.png" alt="nodejs" height="30">
   <img src="https://user-images.githubusercontent.com/35829634/158013518-1478e614-8727-4c53-9970-bacc4bb6111f.png" alt="react" height="30">
-  <img src="https://user-images.githubusercontent.com/35829634/158013327-b8f1fa80-13c3-4f10-a735-29ad2289cf96.png" alt="python" height="30">
+  <img src="https://user-images.githubusercontent.com/35829634/158013865-96671229-f08d-4039-afc0-fa45f260549d.png" alt="mongodb" height="30">
 </p>
 
 ### My portfolio 
