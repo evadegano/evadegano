@@ -1,9 +1,5 @@
 ### Hi, I'm Eva! 👋
-I'm a freshly graduated software engineer from Ironhack. 
-
-As a Project Manager in Digital Marketing and E-Commerce for over 4 years, I realized that the tech behind those projects what I was truly passionate about. Plus, I have always had a knack for building tools that improve and automate processes.
-
-That's why I decided to change careers and become a Full Stack Web Developer.
+I recently graduated from Ironhack, a 24-week immersive Software Development program where I dove into the fields of Computer Science, Web Development and Programming.
 
 ### My tech stack
 <p align="left">
